@@ -1,0 +1,6 @@
+node_modules
+.DS_Store*
+.hubot_history
+local_setting
+local_run.bat
+local_run.sh
